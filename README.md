@@ -12,6 +12,8 @@
                <h6> ° Android and Mobile Pentesting </h6>
                <h6> ° Tools : Burpsuit, Metasploit, Frida, Nmap ... </h6>
                <h6> ° Red Team </h6>
+               <h4> • Android Developer </h4>
+               <h6> ° Android Studio ...
            <h4>   • Languages: </h4>
                <h6> ° Python, Java, Bash, Kotlin ...  </h6>
              <h4> • Others: </h4>
