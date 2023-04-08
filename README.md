@@ -11,11 +11,9 @@
                <h5> ° Android and Mobile Pentesting </h5>
                <h5> ° Web App Pentesting </h5>
                <h5> ° Tools : Burpsuit, Metasploit, Frida, Nmap ... </h5>
-               <h5> ° Red Team </h5>
-            <h4>  • DevOps: </h4>
-               <h5> ° Docker and Kubernetes  </h5>
+               <h5> ° Red Team </h5
            <h4>   • Languages: </h4>
-               <h5> ° Python, Java, Bash , C, Javascript ...  </h5>
+               <h5> ° Python, Java, Bash , C ...  </h5>
              <h4> • Others: </h4>
               <h5>  ° Git, Virtalization, Terminal(cmd , powershell), Linux, Networking ... </h5>
                    
