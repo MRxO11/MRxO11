@@ -9,7 +9,7 @@
 <h2 align="left"> Skills </h3>
 <h4 align="left"> • Cyber Security: </h4>
                <h6> ° Windows and linux pentesting : Exploitaion, Post-Exploitation, P.Escalation ... </h6>
-               <h6> ° Android and Mobile Pentesting </h6>
+               <h6> ° Android and Mobile Application Pentesting </h6>
                <h6> ° Wireless Network Pentesting </h6>
                <h6> ° Tools : Burpsuit, Metasploit, Frida, Nmap ... </h6>
                <h6> ° Red Team </h6>
