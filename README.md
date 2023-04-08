@@ -8,14 +8,14 @@
 
 <h2 align="left"> Skills </h3>
 <h4 align="left"> • Cyber Security: </h4>
-               <h5> ° Android and Mobile Pentesting </h5>
-               <h5> ° Web App Pentesting </h5>
-               <h5> ° Tools : Burpsuit, Metasploit, Frida, Nmap ... </h5>
-               <h5> ° Red Team </h5
+               <h6> ° Windows and linux pentesting : Exploitaion, Post-Exploitation, P.Escalation ... </h6>
+               <h6> ° Android and Mobile Pentesting </h6>
+               <h6> ° Tools : Burpsuit, Metasploit, Frida, Nmap ... </h6>
+               <h6> ° Red Team </h6>
            <h4>   • Languages: </h4>
-               <h5> ° Python, Java, Bash , C ...  </h5>
+               <h6> ° Python, Java, Bash, Kotlin ...  </h6>
              <h4> • Others: </h4>
-              <h5>  ° Git, Virtalization, Terminal(cmd , powershell), Linux, Networking ... </h5>
+              <h6>  ° Git, Virtalization, Terminal(cmd, powershell), Linux, Linux-Networking ... </h6>
                    
                    
 
