@@ -13,10 +13,10 @@
                <h6> ° Wireless Network Pentesting </h6>
                <h6> ° Tools : Burpsuit, Metasploit, Frida, Nmap ... </h6>
                <h6> ° Red Team </h6>
-               <h4> • Android Developer </h4>
-               <h6> ° Android Studio ...
+               <h4> • Android Development </h4>
+               <h6> ° Android Studio ... </h6>
            <h4>   • Languages: </h4>
-               <h6> ° Python, Java, Bash, Kotlin ...  </h6>
+               <h6> ° Python, Java, Bash,...  </h6>
              <h4> • Others: </h4>
               <h6>  ° Git, Virtalization, Terminal(cmd, powershell), Linux, Linux-Networking ... </h6>
                    
