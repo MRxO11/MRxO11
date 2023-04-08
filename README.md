@@ -11,7 +11,7 @@
                <h6> ° Windows and linux pentesting : Exploitaion, Post-Exploitation, P.Escalation ... </h6>
                <h6> ° Android and Mobile Pentesting </h6>
                <h6> ° Wireless Network Pentesting </h6>
-               <h6> ° Tools : Burpsuit, Metasploit, Frida, Nmap ... </h6>°
+               <h6> ° Tools : Burpsuit, Metasploit, Frida, Nmap ... </h6>
                <h6> ° Red Team </h6>
                <h4> • Android Developer </h4>
                <h6> ° Android Studio ...
