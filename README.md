@@ -13,6 +13,7 @@
                <h6> ° Wireless Network Pentesting </h6>
                <h6> ° Tools : Burpsuit, Metasploit, Frida, Nmap ... </h6>
                <h6> ° Red Team </h6>
+               <h6> ° OSINT </h6>
                <h4> • Android Development </h4>
                <h6> ° Android Studio(basics) ... </h6>
            <h4>   • Languages: </h4>
