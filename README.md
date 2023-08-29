@@ -1,6 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm MRxO1</h1>
-<h3 align="center">I go online by the alias @MRxO1. I'm pursuing BTech in computer science and engg. specialization in Internet Of Thing. I'm passionate learner who loves to work in cybersecurity and tech domains and I love to find security flaws and contribute to the cybersec community in any way I can. I always look forward to learn and work with like minded people.</h3>
+<h3 align="center">I go online by the alias @MRxO1. I'm pursuing BTech in computer science and engg. specialization in Internet Of Thing. I'm passionate learner who loves to work in cybersecurity and tech domains and I love to find security flaws and contribute to the cybersec community in any way I can. I always look forward to learn and work with like minded people.
+COURSE COMPLETED 
+- CCNA 
+- NETWORK +
+- CERTIFIED IN CYBERSECURITY NY ISC^2 </h3>
 <img align="center" alt="Happy Hacking !!" width="400" src="https://media.giphy.com/media/BjILuRhWMnBaU/giphy.gif">
 <p align=""> <img src="https://komarev.com/ghpvc/?username=mrxo11&label=Profile%20views&color=0e75b6&style=flat" alt="mrxo11" /> </p>
 
@@ -11,7 +15,7 @@
                <h6> ° Windows and linux pentesting  </h6>
                <h6> ° Android and Mobile Application Pentesting </h6>
                <h6> ° Active Directory </h6>
-               <h6> ° Wireless Network Pentesting </h6>
+               <h6> ° Network Pentesting </h6>
                <h6> ° Tools : Burpsuit, Metasploit, Frida, Nmap ... </h6>
                <h6> ° Red Team </h6>
                <h6> ° OSINT </h6>
