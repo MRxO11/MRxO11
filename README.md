@@ -10,6 +10,7 @@
 <h4 align="left"> • Cyber Security: </h4>
                <h6> ° Windows and linux pentesting  </h6>
                <h6> ° Android and Mobile Application Pentesting </h6>
+               <h6> ° Active Directory </h6>
                <h6> ° Wireless Network Pentesting </h6>
                <h6> ° Tools : Burpsuit, Metasploit, Frida, Nmap ... </h6>
                <h6> ° Red Team </h6>
