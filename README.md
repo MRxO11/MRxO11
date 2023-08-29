@@ -4,7 +4,7 @@
 <h3> COURSE COMPLETED </h3>
 <h4> - CCNA </h4>
 <h4> - NETWORK + </h4>
-<h4> - CERTIFIED IN CYBERSECURITY NY ISC^2 </h4>
+<h4> - CERTIFIED IN CYBERSECURITY BY ISC^2 </h4>
 <img align="center" alt="Happy Hacking !!" width="400" src="https://media.giphy.com/media/BjILuRhWMnBaU/giphy.gif">
 <p align=""> <img src="https://komarev.com/ghpvc/?username=mrxo11&label=Profile%20views&color=0e75b6&style=flat" alt="mrxo11" /> </p>
 
