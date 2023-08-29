@@ -17,7 +17,7 @@
                <h6> ° Red Team </h6>
                <h6> ° OSINT </h6>
            <h4>   • Languages: </h4>
-               <h6> ° Secure code in c++, Assembly, Java, Bash,...  </h6>
+               <h6> ° Secure code in c++, Assembly, Python, Bash,...  </h6>
              <h4> • Others: </h4>
               <h6>  ° Git, Virtalization, Linux, Linux-Networking ... </h6>
                    
