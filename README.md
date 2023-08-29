@@ -8,18 +8,18 @@
 
 <h2 align="left"> Skills </h3>
 <h4 align="left"> • Cyber Security: </h4>
-               <h6> ° Windows and linux pentesting : Exploitaion, Post-Exploitation, P.Escalation ... </h6>
+               <h6> ° Windows and linux pentesting  </h6>
                <h6> ° Android and Mobile Application Pentesting </h6>
                <h6> ° Wireless Network Pentesting </h6>
                <h6> ° Tools : Burpsuit, Metasploit, Frida, Nmap ... </h6>
                <h6> ° Red Team </h6>
                <h6> ° OSINT </h6>
                <h4> • Android Development </h4>
-               <h6> ° Android Studio(basics) ... </h6>
+               <h6> ° Android Studio </h6>
            <h4>   • Languages: </h4>
-               <h6> ° Python, Java, Bash,...  </h6>
+               <h6> ° Secure code in c++, Assembly, Java, Bash,...  </h6>
              <h4> • Others: </h4>
-              <h6>  ° Git, Virtalization, Terminal(cmd, powershell), Linux, Linux-Networking ... </h6>
+              <h6>  ° Git, Virtalization, Linux, Linux-Networking ... </h6>
                    
                    
 
