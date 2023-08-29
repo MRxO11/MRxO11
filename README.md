@@ -10,14 +10,12 @@
 <h2 align="left"> Skills </h3>
 <h4 align="left"> • Cyber Security: </h4>
                <h6> ° Windows and linux pentesting  </h6>
-               <h6> ° Android and Mobile Application Pentesting </h6>
+               <h6> ° Mobile Application Pentesting </h6>
                <h6> ° Active Directory </h6>
                <h6> ° Network Pentesting </h6>
-               <h6> ° Tools : Burpsuit, Metasploit, Frida, Nmap ... </h6>
+               <h6> ° Tools : Burpsuit, Metasploit, Nmap ... </h6>
                <h6> ° Red Team </h6>
                <h6> ° OSINT </h6>
-               <h4> • Android Development </h4>
-               <h6> ° Android Studio </h6>
            <h4>   • Languages: </h4>
                <h6> ° Secure code in c++, Assembly, Java, Bash,...  </h6>
              <h4> • Others: </h4>
